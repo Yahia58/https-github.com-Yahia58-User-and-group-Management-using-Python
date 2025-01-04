@@ -28,7 +28,7 @@ The tool  designed for flexibility and ease of use:
 ### Python
 - **Description:** Implements a modular approach for enhanced flexibility. Suitable for expanding and integrating additional features. Clean and structured codebase for maintainability.
 - **Screenshot:**
-  ![Python Implementation Screenshot](UGpy.png)
+  ![Python Implementation Screenshot](UGpy.jpg)
 
 ---
 
